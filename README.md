@@ -1,0 +1,1 @@
+# ai-bussiness-idea-generator
